@@ -1,0 +1,20 @@
+To install, just follow the links below  : 
+
+https : https://github.com/AhSiber/ColorRandom.git 
+ssh : git@github.com:AhSiber/ColorRandom.git 
+CLI : gh repo clone AhSiber/ColorRandom  
+
+After installation, perform the following steps : 
+
+For complete installation in the system! You must go through these steps:
+
+1- Library installation
+
+2- Transfer it to this address:
+
+/ home / Username /. local / lib / python3.8 / site-packages
+
+3 - Now you can use this library very, very easily (:
+
+4- You can install it soon with pip.  
+
