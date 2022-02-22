@@ -7,8 +7,12 @@ class color :
         # list color in pyhton ! 
         ResetAll = "\033[0m";Bold       = "\033[1m";Dim        = "\033[2m"
         Underlined = "\033[4m";Blink      = "\033[5m";Reverse    = "\033[7m";Hidden     = "\033[8m" 
+        # colors
+        Cyan = "\033[36m"  ; Purple = "\033[35m" ; blue = "\033[34" 
+        Brown = "\033[33m" ; Dark_Gray = "\033[1;30m"
+
         # 'random color : text def color 16 color ' 
-        random_ = random.randrange(1,16)
+        random_ = random.randrange(1,21)
         if random_ == 1 :print(f"\033[39m{ResetAll}{text}")
         elif random_ == 2:print(f"\033[30m{Bold}{text}") 
         elif random_ == 3:print(f"\033[31m{Dim}{text}") 
@@ -23,7 +27,12 @@ class color :
         elif random_ == 12:print(f"\033[91m{Reverse}{text}") 
         elif random_ == 13:print(f"\033[92m{ResetAll}{text}") 
         elif random_ == 14:print(f"\033[93m{Dim}{text}") 
-        elif random_ == 15:print(f"\033[94m{Underlined}{text}")   
+        elif random_ == 15:print(f"\033[94m{Underlined}{text}")  
+        elif random_ == 16:print(f"{Cyan}{text}")
+        elif random_ == 17:print(f"{Purple}{text}") 
+        elif random_ == 18:print(f"{blue}{text}")
+        elif random_ == 19:print(f"{Brown}{text}")
+        elif random_ == 20:print(f"{Dark_Gray}{text}")
         else:raise ValueError(f'\033[1mError value in text')
         # list color in pyhton ! 
 
@@ -34,7 +43,11 @@ try :
     ResetAll = "\033[0m";Bold       = "\033[1m";Dim        = "\033[2m"
     Underlined = "\033[4m";Blink      = "\033[5m";Reverse    = "\033[7m";Hidden     = "\033[8m" 
     # 'random color : text def color 16 color ' 
-    random_ = random.randrange(1,16)
+            # colors
+    Cyan = "\033[36m"  ; Purple = "\033[35m" ; blue = "\033[34" 
+    Brown = "\033[33m" ; Dark_Gray = "\033[1;30m"
+
+    random_ = random.randrange(1,21)
     
     if text == "-h" or text =="--help":
         print('''
@@ -68,6 +81,11 @@ OPTIONS
     elif random_ == 13:print(f"\033[92m{ResetAll}{text}") 
     elif random_ == 14:print(f"\033[93m{Dim}{text}") 
     elif random_ == 15:print(f"\033[94m{Underlined}{text}")
+    elif random_ == 16:print(f"{Cyan}{text}")
+    elif random_ == 17:print(f"{Purple}{text}") 
+    elif random_ == 18:print(f"{blue}{text}")
+    elif random_ == 19:print(f"{Brown}{text}")
+    elif random_ == 20:print(f"{Dark_Gray}{text}")
     else:raise ValueError(f'\033[1mError value in text')
 except: 
     pass
