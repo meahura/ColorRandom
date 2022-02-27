@@ -1,12 +1,12 @@
 # <i><li>𝐋𝐢𝐬𝐭 𝐨𝐟 𝐜𝐨𝐥𝐨𝐫𝐬 𝐭𝐡𝐚𝐭 𝐚𝐫𝐞 𝐬𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝</li></i>
 
 
-name color | cname color(2)| 
------------|---------------|
-ResetAll   | Underlined    |
-Bold       | Blink         | 
-Dim        | Reverse       | 
-Hidden     | pink          | 
+name color | name color(2) | name color(3) | name color(4) | 
+-----------|---------------|---------------|---------------| 
+ResetAll   | Underlined    | Cyan          | blue          | 
+Bold       | Blink         | Brown         |
+Dim        | Reverse       | Dark_Gray     | 
+Hidden     | pink          | Purple        | 
 
 # <i>𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐇𝐞𝐥𝐩</i>
 
