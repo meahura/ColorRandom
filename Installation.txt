@@ -16,5 +16,4 @@ For complete installation in the system! You must go through these steps:
 
 3 - Now you can use this library very, very easily (:
 
-4- You can install it soon with pip.  
-
+4- You can install it soon with pip.
