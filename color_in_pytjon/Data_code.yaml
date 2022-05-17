@@ -5,7 +5,6 @@ CURL      : '\33[4m'
 CBLINK    : '\33[5m'
 CBLINK2   : '\33[6m'
 CSELECTED : '\33[7m'
-
 CBLACK  : '\33[30m'
 CRED    : '\33[31m'
 CGREEN  : '\33[32m'
@@ -14,7 +13,6 @@ CBLUE   : '\33[34m'
 CVIOLET : '\33[35m'
 CBEIGE  : '\33[36m'
 CWHITE  : '\33[37m'
-
 CBLACKBG  : '\33[40m'
 CREDBG    : '\33[41m'
 CGREENBG  : '\33[42m'
@@ -23,7 +21,6 @@ CBLUEBG   : '\33[44m'
 CVIOLETBG : '\33[45m'
 CBEIGEBG  : '\33[46m'
 CWHITEBG  : '\33[47m'
-
 CGREY    : '\33[90m'
 CRED2    : '\33[91m'
 CGREEN2  : '\33[92m'
@@ -32,7 +29,6 @@ CBLUE2   : '\33[94m'
 CVIOLET2 : '\33[95m'
 CBEIGE2  : '\33[96m'
 CWHITE2  : '\33[97m'
-
 CGREYBG    : '\33[100m'
 CREDBG2    : '\33[101m'
 CGREENBG2  : '\33[102m'
@@ -41,7 +37,6 @@ CBLUEBG2   : '\33[104m'
 CVIOLETBG2 : '\33[105m'
 CBEIGEBG2  : '\33[106m'
 CWHITEBG2  : '\33[107m'   
-
 ResetAll : "\033[0m"
 Bold       : "\033[1m"
 Dim        : "\033[2m"
@@ -49,14 +44,12 @@ Underlined : "\033[4m"
 Blink      : "\033[5m"
 Reverse    : "\033[7m"
 Hidden     : "\033[8m"
-
 ResetBold       : "\033[21m"
 ResetDim        : "\033[22m"
 ResetUnderlined : "\033[24m"
 ResetBlink      : "\033[25m"
 ResetReverse    : "\033[27m"
 ResetHidden     : "\033[28m"
-
 Default      : "\033[39m"
 Black        : "\033[30m"
 Red          : "\033[31m"
@@ -74,7 +67,6 @@ LightBlue    : "\033[94m"
 LightMagenta : "\033[95m"
 LightCyan    : "\033[96m"
 White        : "\033[97m"
-
 BackgroundDefault      : "\033[49m"
 BackgroundBlack        : "\033[40m"
 BackgroundRed          : "\033[41m"
@@ -91,4 +83,4 @@ BackgroundLightYellow  : "\033[103m"
 BackgroundLightBlue    : "\033[104m"
 BackgroundLightMagenta : "\033[105m"
 BackgroundLightCyan    : "\033[106m"
-BackgroundWhite        : "\033[107m"    
+BackgroundWhite        : "\033[107m" 
