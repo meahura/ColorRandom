@@ -1,10 +1,11 @@
-from setuptools import setup 
+from setuptools import setup
 
 setup(
-   name='ColorRandom', 
-   version='v3.0.1',
-   description='random color to txt',
-   url='https://github.com/AhSiber/ColorRandom',
-   download_url='https://github.com/AhSiber/ColorRandom.git',
-   script_name='ColorRandom'
+   name='ColoRandom',
+   version='v3.0.2',
+   description='color random txt!',
+   author='ahura rasoli',
+   author_email='ahurarasoli@gmail.com',
+   packages=['ColoRandom'],
+   install_requires=['wheel', 'bar', 'greek'],
 )
