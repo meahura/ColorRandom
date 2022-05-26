@@ -1,4 +1,4 @@
-# <i><li>𝐋𝐢𝐬𝐭 𝐨𝐟 𝐜𝐨𝐥𝐨𝐫𝐬 𝐭𝐡𝐚𝐭 𝐚𝐫𝐞 𝐬𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝</li></i>
+# <i><li>List of colors that are supported</li></i>
 
 
 name color | name color(2) | name color(3) | name color(4) | 
@@ -8,7 +8,7 @@ Bold       | Blink         | Brown         |
 Dim        | Reverse       | Dark_Gray     | 
 Hidden     | pink          | Purple        | 
 
-# <i>𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐇𝐞𝐥𝐩</i>
+# <i>Installation Helop</i>
 
 To install, simply run the steps below.Stay with you ! 
 
