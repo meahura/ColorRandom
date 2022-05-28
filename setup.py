@@ -1,11 +1,15 @@
 from setuptools import setup
+from shutil import copy , move
+import platform
 
-setup(
-   name='ColoRandom',
-   version='v3.0.2',
-   description='color random txt!',
-   author='ahura rasoli',
-   author_email='ahurarasoli@gmail.com',
-   packages=['ColoRandom'],
-   install_requires=['wheel', 'bar', 'greek'],
-)
+
+python_ver = platform.python_version()[0:3]
+username = platform.node().split("-")[0]
+
+
+
+try:
+   move(f"colorRandom" , dst=f'/home/{username}/.local/lib/python{python_ver}/site-packages')
+except:
+   print('error to set setup!')
+
