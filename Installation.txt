@@ -1,10 +1,10 @@
-To install, just follow the links below  : 
+To install, just follow the links below  :
 
-https : https://github.com/AhSiber/ColorRandom.git 
-ssh : git@github.com:AhSiber/ColorRandom.git 
-CLI : gh repo clone AhSiber/ColorRandom  
+https : https://github.com/AhSiber/ColorRandom.git
+ssh : git@github.com:AhSiber/ColorRandom.git
+CLI : gh repo clone AhSiber/ColorRandom
 
-After installation, perform the following steps : 
+After installation, perform the following steps :
 
 For complete installation in the system! You must go through these steps:
 

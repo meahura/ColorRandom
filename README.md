@@ -6,41 +6,74 @@ This scroll was uploaded to GitHub on May 26! And we'd be happy to see you take 
 # <i>Installation of Python Setup</i>
 Python is a programming language! We wrote this script with Python. To set up this script and use it, be sure to install the Python follow the steps below so that you can install the Python!
 
-<b>Linux : </b> 
-    
+<b>Linux : </b>
+
     sudo apt-get install python3
 
-<b> Windows : </b> 
+<b> Windows : </b>
 
 Install in windows : <a href="https://www.python.org/downloads/">See site</a>
 
 # <i>Installation Helop</i>
-To install, simply run the steps below.Stay with you ! 
+To install, simply run the steps below.Stay with you !
 
-HTTPS : 
-    
-    git clone https://github.com/AhSiber/ColorRandom.git 
+HTTPS :
 
-SSH : 
+    git clone https://github.com/AhSiber/ColorRandom.git
 
-    ssh git@github.com:AhSiber/ColorRandom.git 
+SSH :
 
-GITCLI : 
+    ssh git@github.com:AhSiber/ColorRandom.git
 
-    gh repo clone AhSiber/ColorRandom 
+GITCLI :
+
+    gh repo clone AhSiber/ColorRandom
 
 
 <h3>Installation steps in Linux and Run :</h3>
 
-    (1) - git clone https://github.com/AhSiber/ColorRandom.git 
-    (2) - cd ColorRandom 
-    (3) - cd color_random_txt 
-    (4) - python3 colorMeakUP.py Hello Ahura 
+    (1) - git clone https://github.com/AhSiber/ColorRandom.git
+    (2) - cd colorRandom
+    (3) - python3 script.py Hello Ahura
 
 <b><i>if In your system, Python is not following the steps below:</i></b>
 
 
-    (0) - sudo su - 
-    (1) - apt update 
-    (2) - apt install python3 
-    (3) - python3 -v 
+    (1) - sudo su -
+    (2) - apt update
+    (3) - apt install python3
+    (4) - python3 -v
+
+
+<b><i>
+download Zip file :
+</i></b>
+
+    https://github.com/Ahsiber/ColorRandom/ColorRandom.tar.gz
+
+<h3>! If you download like this, you will most likely download previous versions
+Try to install as described above! And you can have earlier versions, of course.
+</h3>
+
+
+<br>
+
+<h1>
+<i>
+Library Executive :
+</i>
+</h1>
+
+To run the library and use it in your source, you must follow the steps below
+
+<code>
+from colorRandom import Funck
+
+Funck.color.Color('hello word!')
+</code>
+
+
+>You can find a sample code in the section and test it
+
+    (1) - cd ColorRandom
+    (2) - python3 Libery_Test.py 
