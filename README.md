@@ -5,7 +5,7 @@ This scroll was uploaded to GitHub on May 26! And we'd be happy to see you take 
 
 # <i>Installation of Python Setup</i>
 Python is a programming language! We wrote this script with Python. To set up this script and use it, be sure to install the Python follow the steps below so that you can install the Python!
-
+ 
 <b>Linux : </b>
 
     sudo apt-get install python3
