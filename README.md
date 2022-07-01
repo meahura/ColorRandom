@@ -66,11 +66,9 @@ Library Executive :
 
 To run the library and use it in your source, you must follow the steps below
 
-<code>
-from colorRandom import Funck
+    from colorRandom import Funck
 
-Funck.color.Color('hello word!')
-</code>
+    Funck.color.Color('hello word!')
 
 
 >You can find a sample code in the section and test it
