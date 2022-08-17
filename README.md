@@ -1,11 +1,11 @@
-# <i><li>Application of this script What</li></i>
+# <i>Application of this script What</i>
 With the help of this script, you can get it! Color your text in the terminal randomly! We have a lot of different colors in this program.
 One of the interesting points of this script, or should I say, is that the library is! That you can do it as a script and give it to Verdi. Or you can use the system that you installed Python. Implement it and use it in your projects!
 This scroll was uploaded to GitHub on May 26! And we'd be happy to see you take part in this project.
 
 # <i>Installation of Python Setup</i>
 Python is a programming language! We wrote this script with Python. To set up this script and use it, be sure to install the Python follow the steps below so that you can install the Python!
- 
+
 <b>Linux : </b>
 
     sudo apt-get install python3
@@ -14,7 +14,7 @@ Python is a programming language! We wrote this script with Python. To set up th
 
 Install in windows : <a href="https://www.python.org/downloads/">See site</a>
 
-# <i>Installation Helop</i>
+# <i>Installation Help</i>
 To install, simply run the steps below.Stay with you !
 
 HTTPS :
@@ -54,10 +54,7 @@ download Zip file :
 <h3>! If you download like this, you will most likely download previous versions
 Try to install as described above! And you can have earlier versions, of course.
 </h3>
-
-
 <br>
-
 <h1>
 <i>
 Library Executive :
@@ -66,14 +63,13 @@ Library Executive :
 
 To run the library and use it in your source, you must follow the steps below
 
-<code>
-from colorRandom import Funck
+    from colorRandom import Funck
 
-Funck.color.Color('hello word!')
-</code>
+
+    Funck.color.Color('hello word!')
 
 
 >You can find a sample code in the section and test it
 
     (1) - cd ColorRandom
-    (2) - python3 Libery_Test.py 
+    (2) - python3 Libery_Test.py

@@ -8,7 +8,7 @@ After installation, perform the following steps :
 
 For complete installation in the system! You must go through these steps:
 
-1- Library installation 
+1- Library installation
 
 2- Transfer it to this address:
 
@@ -17,3 +17,21 @@ For complete installation in the system! You must go through these steps:
 3 - Now you can use this library very, very easily (:
 
 4- You can install it soon with pip.
+
+# --> Section 1
+
+# Alert install:
+      # This code can only be used on Linux according to the specific conditions I am currently stating :
+      # If you've moved this transmission route, this operation will not take place.
+      # if you manipulate the source, it won't work again.
+      # If you delete the surrounding folders, the source will be confused and can't
+      # move the required file and you'll be with the text :‌ [ error to set setup! ] You'll be confronted.
+
+# --> Section 2
+
+# Manual installation‌:
+      # To manually install the file, you need to [ colorRandom ]
+      # Send Python packages to a folder path
+      # In Linux, this is the default path :
+      # /home/username/.local/lib/python/site-packages.
+      # I don't know about other trading systems.
