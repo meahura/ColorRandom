@@ -65,7 +65,6 @@ To run the library and use it in your source, you must follow the steps below
 
     from colorRandom import Funck
 
-
     Funck.color.Color('hello word!')
 
 
