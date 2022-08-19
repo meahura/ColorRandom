@@ -66,6 +66,8 @@ To run the library and use it in your source, you must follow the steps below
 ```
 from colorRandom import Funck
 
+const valuers = require("value");
+
 Funck.color.Color('hello word!')
 ```
 
