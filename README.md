@@ -1,12 +1,12 @@
 # Application of this script What
 With the help of this script, you can get it! Color your text in the <a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D9%85%DB%8C%D9%86%D8%A7%D9%84_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87">terminal</a> randomly! We have a lot of different colors in this program.
-One of the interesting points of this script, or should I say, is that the library is! That you can do it as a script and give it to Verdi. Or you can use the system that you installed <a href="www.python.org">Python</a>. Implement it and use it in your projects!
-This scroll was uploaded to <a href="www.github.com">GitHub</a> on May 26! And we'd be happy to see you take part in this project.
+One of the interesting points of this script, or should I say, is that the library is! That you can do it as a script and give it to Verdi. Or you can use the system that you installed <a href="https://www.python.org">Python</a>. Implement it and use it in your projects!
+This scroll was uploaded to <a href="https://www.github.com">GitHub</a> on May 26! And we'd be happy to see you take part in this project.
 
 # Installation of Python Setup
 Python is a programming language! We wrote this script with Python. To set up this script and use it, be sure to install the Python follow the steps below so that you can install the Python!
 
-<b><a href="www.kernel.org">Linux</a> : </b>
+<b><a href="https://www.kernel.org/">Linux</a> : </b>
 
     sudo apt-get install python3
 
