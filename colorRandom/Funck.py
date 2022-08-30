@@ -1,9 +1,10 @@
-import random
-import sys
-from os import system
 
-class color :
-    def __init__(self) -> None:pass
+import random
+from time import sleep
+
+class color:
+    def __init__(self):
+        ...
     def Color(text:str):
         # list color in pyhton !
         ResetAll = "\033[0m";Bold       = "\033[1m";Dim        = "\033[2m"
@@ -156,3 +157,11 @@ class color :
         elif random_ == 79:print(f"{CBOLD}{text}")
 
         else:raise ValueError(f'\033[1mError value in text')
+
+
+    def xcolor(text:str,total:int,sleeping:float):
+        for numbering in range(0,total):
+            color.Color(text)
+            sleep(sleeping)
+
+color.xcolor('xoxoxo',5,2.5)
